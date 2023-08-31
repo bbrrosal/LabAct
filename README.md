@@ -1,1 +1,1 @@
-Introduction to Git and GitHub
+Bea Rosal & Johanna Tulalian - INF211
